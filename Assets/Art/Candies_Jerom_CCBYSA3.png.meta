@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: cd18bb6c5b26d874f9c39d656cb32b37
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8200753063566766969
+    second: Candies_Jerom_CCBYSA3_0
+  - first:
+      213: -7707465062274031902
+    second: Candies_Jerom_CCBYSA3_1
+  - first:
+      213: -3341713634967663010
+    second: Candies_Jerom_CCBYSA3_2
+  - first:
+      213: 744376705736303324
+    second: Candies_Jerom_CCBYSA3_3
+  - first:
+      213: 2546483071237738640
+    second: Candies_Jerom_CCBYSA3_4
+  - first:
+      213: -5682091620870042725
+    second: Candies_Jerom_CCBYSA3_5
+  - first:
+      213: -3577818998671655312
+    second: Candies_Jerom_CCBYSA3_6
+  - first:
+      213: 1026480932786116380
+    second: Candies_Jerom_CCBYSA3_7
+  - first:
+      213: -3294949036715978871
+    second: Candies_Jerom_CCBYSA3_8
+  - first:
+      213: 5185095977495115759
+    second: Candies_Jerom_CCBYSA3_9
+  - first:
+      213: 8438619614108475959
+    second: Candies_Jerom_CCBYSA3_10
+  - first:
+      213: -2603809038698049626
+    second: Candies_Jerom_CCBYSA3_11
+  - first:
+      213: 1904495456834232225
+    second: Candies_Jerom_CCBYSA3_12
+  - first:
+      213: 7926427103531628076
+    second: Candies_Jerom_CCBYSA3_13
+  - first:
+      213: -6727120835001465942
+    second: Candies_Jerom_CCBYSA3_14
+  - first:
+      213: -3094767024573165185
+    second: Candies_Jerom_CCBYSA3_15
+  - first:
+      213: -885978619517566656
+    second: Candies_Jerom_CCBYSA3_16
+  - first:
+      213: 4841526832660062627
+    second: Candies_Jerom_CCBYSA3_17
+  - first:
+      213: 5147749277284378138
+    second: Candies_Jerom_CCBYSA3_18
+  - first:
+      213: 4030215585061680484
+    second: Candies_Jerom_CCBYSA3_19
+  - first:
+      213: -9022215443827216769
+    second: Candies_Jerom_CCBYSA3_20
+  - first:
+      213: 8268811758730429870
+    second: Candies_Jerom_CCBYSA3_21
+  - first:
+      213: 2350774631231994810
+    second: Candies_Jerom_CCBYSA3_22
+  - first:
+      213: 2369436144379065331
+    second: Candies_Jerom_CCBYSA3_23
+  - first:
+      213: -3198346946544867050
+    second: Candies_Jerom_CCBYSA3_24
+  - first:
+      213: 7526357791358515219
+    second: Candies_Jerom_CCBYSA3_25
+  - first:
+      213: 4733036294067590332
+    second: Candies_Jerom_CCBYSA3_26
+  - first:
+      213: -2690318226489058920
+    second: Candies_Jerom_CCBYSA3_27
+  - first:
+      213: 7354861878588220329
+    second: Candies_Jerom_CCBYSA3_28
+  - first:
+      213: -622552791202627099
+    second: Candies_Jerom_CCBYSA3_29
+  - first:
+      213: -8977304704921552493
+    second: Candies_Jerom_CCBYSA3_30
+  - first:
+      213: 8579432892286224117
+    second: Candies_Jerom_CCBYSA3_31
+  - first:
+      213: 8371561339461171880
+    second: Candies_Jerom_CCBYSA3_32
+  - first:
+      213: -470517028041014135
+    second: Candies_Jerom_CCBYSA3_33
+  - first:
+      213: 186932763026760313
+    second: Candies_Jerom_CCBYSA3_34
+  - first:
+      213: 6052219309616980090
+    second: Candies_Jerom_CCBYSA3_35
+  - first:
+      213: 5533111921766144802
+    second: Candies_Jerom_CCBYSA3_36
+  - first:
+      213: -7715014887981459908
+    second: Candies_Jerom_CCBYSA3_37
+  - first:
+      213: 8808552696071751822
+    second: Candies_Jerom_CCBYSA3_38
+  - first:
+      213: -9103849220599652387
+    second: Candies_Jerom_CCBYSA3_39
+  - first:
+      213: 7652549357484599159
+    second: Candies_Jerom_CCBYSA3_40
+  - first:
+      213: 8534952137141175706
+    second: Candies_Jerom_CCBYSA3_41
+  - first:
+      213: 8879003797461219388
+    second: Candies_Jerom_CCBYSA3_42
+  - first:
+      213: -7774635432963158729
+    second: Candies_Jerom_CCBYSA3_43
+  - first:
+      213: 8682235180863435704
+    second: Candies_Jerom_CCBYSA3_44
+  - first:
+      213: 6558405576784563876
+    second: Candies_Jerom_CCBYSA3_45
+  - first:
+      213: -4457905670618631205
+    second: Candies_Jerom_CCBYSA3_46
+  - first:
+      213: 3412458316194089193
+    second: Candies_Jerom_CCBYSA3_47
+  - first:
+      213: 3968064555513565542
+    second: Candies_Jerom_CCBYSA3_48
+  - first:
+      213: 7942723104607886036
+    second: Candies_Jerom_CCBYSA3_49
+  - first:
+      213: -5722756116493878844
+    second: Candies_Jerom_CCBYSA3_50
+  - first:
+      213: -1498376557172915768
+    second: Candies_Jerom_CCBYSA3_51
+  - first:
+      213: -6584523071241173084
+    second: Candies_Jerom_CCBYSA3_52
+  - first:
+      213: -7649978645359063289
+    second: Candies_Jerom_CCBYSA3_53
+  - first:
+      213: -5117754338235142624
+    second: Candies_Jerom_CCBYSA3_54
+  - first:
+      213: 1469767946255524313
+    second: Candies_Jerom_CCBYSA3_55
+  - first:
+      213: -4884436373090100692
+    second: Candies_Jerom_CCBYSA3_56
+  - first:
+      213: -5941983784243791398
+    second: Candies_Jerom_CCBYSA3_57
+  - first:
+      213: -4585240461590973943
+    second: Candies_Jerom_CCBYSA3_58
+  - first:
+      213: -6703908010363682215
+    second: Candies_Jerom_CCBYSA3_59
+  - first:
+      213: 4245835595023992248
+    second: Candies_Jerom_CCBYSA3_60
+  - first:
+      213: -8320326349154873173
+    second: Candies_Jerom_CCBYSA3_61
+  - first:
+      213: 1933420535705554574
+    second: Candies_Jerom_CCBYSA3_62
+  - first:
+      213: -55970949746297323
+    second: Candies_Jerom_CCBYSA3_63
+  - first:
+      213: 170534465706344416
+    second: Candies_Jerom_CCBYSA3_64
+  - first:
+      213: -7409315538945276599
+    second: Candies_Jerom_CCBYSA3_65
+  - first:
+      213: 5345195533644335663
+    second: Candies_Jerom_CCBYSA3_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 124
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green 1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973f79c367deec170800000000000000
+      internalID: 8200753063566766969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee1c6c9c55990590800000000000000
+      internalID: -7707465062274031902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e4ca67729df91d0800000000000000
+      internalID: -3341713634967663010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2ec748bae845a00800000000000000
+      internalID: 744376705736303324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090dba78cdce65320800000000000000
+      internalID: 2546483071237738640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 600
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b41dc96c72521b0800000000000000
+      internalID: -5682091620870042725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e3889a398095ec0800000000000000
+      internalID: -3577818998671655312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 501
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c179d6748face3e00800000000000000
+      internalID: 1026480932786116380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 501
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f4789fe4df542d0800000000000000
+      internalID: -3294949036715978871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe737e8d15925f740800000000000000
+      internalID: 5185095977495115759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732649d44dffb1570800000000000000
+      internalID: 8438619614108475959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af837199796ddbd0800000000000000
+      internalID: -2603809038698049626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af13fc07802e6a10800000000000000
+      internalID: 1904495456834232225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26f7046473500e60800000000000000
+      internalID: 7926427103531628076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 399
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3cb9c0e3774a2a0800000000000000
+      internalID: -6727120835001465942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7159b5b9cd2d05d0800000000000000
+      internalID: -3094767024573165185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0418011c32f54b3f0800000000000000
+      internalID: -885978619517566656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 400
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1a937b00f803340800000000000000
+      internalID: 4841526832660062627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a162f4991ba707740800000000000000
+      internalID: 5147749277284378138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46538dbb8b33ee730800000000000000
+      internalID: 4030215585061680484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 301
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea2a70bd6aac280800000000000000
+      internalID: -9022215443827216769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea543b90c78b0c270800000000000000
+      internalID: 8268811758730429870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb35997211af9020800000000000000
+      internalID: 2350774631231994810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 4
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 300
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f37fa79e9de1e020800000000000000
+      internalID: 2369436144379065331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619ecbec5603d93d0800000000000000
+      internalID: -3198346946544867050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318fa6ee88ef27860800000000000000
+      internalID: 7526357791358515219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb41ee8ce6f1fa140800000000000000
+      internalID: 4733036294067590332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995c51b3d11aaad0800000000000000
+      internalID: -2690318226489058920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 5
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3205d29e7b11660800000000000000
+      internalID: 7354861878588220329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 200
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1807ae88f3c57f0800000000000000
+      internalID: -622552791202627099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39935b64fe43a6380800000000000000
+      internalID: -8977304704921552493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6c50f72c4401770800000000000000
+      internalID: 8579432892286224117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aaf9fd0fa2cd2470800000000000000
+      internalID: 8371561339461171880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c7d281436879f0800000000000000
+      internalID: -470517028041014135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 6
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972a7198b5e189200800000000000000
+      internalID: 186932763026760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 100
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70ea74656dcdf350800000000000000
+      internalID: 6052219309616980090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green 7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b99572aff89cc40800000000000000
+      internalID: 5533111921766144802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red 7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36d305d5d2cee490800000000000000
+      internalID: -7715014887981459908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Moss Green 7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e888aa2e1044e3a70800000000000000
+      internalID: 8808552696071751822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow 7
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfd07d3e51a8a180800000000000000
+      internalID: -9103849220599652387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue 7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777630f7811533a60800000000000000
+      internalID: 7652549357484599159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gray 7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95c245afbd327670800000000000000
+      internalID: 8534952137141175706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a3a7417b3288f464983984eb818916d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Blue 1: 2546483071237738640
+      Blue 2: 8438619614108475959
+      Blue 3: -885978619517566656
+      Blue 4: 2350774631231994810
+      Blue 5: 7354861878588220329
+      Blue 6: 186932763026760313
+      Blue 7: 7652549357484599159
+      Gray 1: -5682091620870042725
+      Gray 2: -2603809038698049626
+      Gray 3: 4841526832660062627
+      Gray 4: 2369436144379065331
+      Gray 5: -622552791202627099
+      Gray 6: 6052219309616980090
+      Gray 7: 8534952137141175706
+      Green 1: 8200753063566766969
+      Green 2: -3577818998671655312
+      Green 3: 1904495456834232225
+      Green 4: 5147749277284378138
+      Green 5: -3198346946544867050
+      Green 6: -8977304704921552493
+      Green 7: 5533111921766144802
+      Moss Green 1: -3341713634967663010
+      Moss Green 2: -3294949036715978871
+      Moss Green 3: -6727120835001465942
+      Moss Green 4: -9022215443827216769
+      Moss Green 5: 4733036294067590332
+      Moss Green 6: 8371561339461171880
+      Moss Green 7: 8808552696071751822
+      Red 1: -7707465062274031902
+      Red 2: 1026480932786116380
+      Red 3: 7926427103531628076
+      Red 4: 4030215585061680484
+      Red 5: 7526357791358515219
+      Red 6: 8579432892286224117
+      Red 7: -7715014887981459908
+      Yellow 1: 744376705736303324
+      Yellow 2: 5185095977495115759
+      Yellow 3: -3094767024573165185
+      Yellow 4: 8268811758730429870
+      Yellow 5: -2690318226489058920
+      Yellow 6: -470517028041014135
+      Yellow 7: -9103849220599652387
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
